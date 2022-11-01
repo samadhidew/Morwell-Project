@@ -3,6 +3,7 @@ A Windows Form Application (Desktop Application) Project to facilitate the busin
 
 ## Project Details
 - Group Name - **CoderUpper**
+- Group No - 10
 - Project Type - **Standalone/Desktop Application Development**
 - Subject - **CS107.3**
 - Batch - **NSBM Batch 20.1**
